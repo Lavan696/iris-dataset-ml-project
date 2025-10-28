@@ -81,4 +81,4 @@ git clone https://github.com/your-username/iris-decision-tree-classifier.git`
 **Lavan Kumar Konda**  
 Student at NIT Andhra Pradesh  
 Passionate about Machine Learning, Data Science, and AI 
-**LinkedIn:**[https://www.linkedin.com/in/k-lavan-kumar-konda]
+[LinkedIn](https://www.linkedin.com/in/lavan-kumar-konda/)
